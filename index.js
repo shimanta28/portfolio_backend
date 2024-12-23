@@ -10,7 +10,7 @@ const app = express();
 //configurations
 const corsOptions = {
   origin: [
-    "https://portfolio-hx9l-nlwx1cqp1-shimanta28s-projects.vercel.app",
+    "https://portfolio-e2oxrvxgx-shimanta28s-projects.vercel.app",
     "http://localhost:5173",
   ],
   allowedHeaders: ["Content-Type", "Authorization"],
